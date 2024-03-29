@@ -1,6 +1,16 @@
 /* Tailwind directives  */
+@import 'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+
+/* Additional custom styles */
+.perspective-3d {
+    perspective: 1000px;
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+}
 
