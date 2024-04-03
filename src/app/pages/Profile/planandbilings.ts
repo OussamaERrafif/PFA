@@ -538,7 +538,8 @@ import '../../../styles.css';
               <div class="block mt-4 text-right">
                 <div class="inline-flex items-end">
                   <button
-                    class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded"
+                    type="button"
+                    class="text-white bg-gradient-to-r from-gray-500 via-gray-600 to-gray-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-gray-300 dark:focus:ring-gray-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
                   >
                     Save Changes
                   </button>
