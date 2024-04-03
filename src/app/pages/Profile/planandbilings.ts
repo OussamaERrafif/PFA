@@ -127,7 +127,7 @@ import '../../../styles.css';
                           href="#"
                           class="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-gray-600 no-underline bg-transparent border border-gray-600 rounded-md cursor-pointer hover:bg-gray-700 hover:border-gray-700 hover:text-white focus-within:bg-gray-700 focus-within:border-gray-700 focus-within:text-white sm:text-base md:text-lg"
                         >
-                          Start Now
+                          Select
                         </a>
                       </div>
                       <!-- Price 2 -->
@@ -242,7 +242,7 @@ import '../../../styles.css';
                           href="#"
                           class="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-white no-underline bg-gray-600 border rounded-md cursor-pointer hover:bg-gray-700 hover:border-gray-700 hover:text-white focus-within:bg-gray-700 focus-within:border-gray-700 focus-within:text-white sm:text-base md:text-lg"
                         >
-                          Start Now
+                          Selected
                         </a>
                       </div>
                       <!-- Price 3 -->
@@ -397,7 +397,7 @@ import '../../../styles.css';
                           href="#"
                           class="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-gray-600 no-underline bg-transparent border border-gray-600 rounded-md cursor-pointer hover:bg-gray-700 hover:border-gray-700 hover:text-white focus-within:bg-gray-700 focus-within:border-gray-700 focus-within:text-white sm:text-base md:text-lg"
                         >
-                          Start Now
+                          Select
                         </a>
                       </div>
                     </div>
@@ -410,19 +410,17 @@ import '../../../styles.css';
                     id="pricing"
                     class="box-border m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-solid sm:text-2xl md:text-2xl"
                   >
-                    update payment details
+                    Update payment details:
                   </h2>
                   <p
                     class="box-border mt-2 text-xl text-gray-900 border-solid sm:text-2xl"
                   ></p>
                 </div>
-                <!-- component -->
                 <div class="bg-white min-h-56 flex justify-center items-center">
                   <div class="space-y-16">
                     <div
                       class="w-96 h-56 m-auto bg-red-100 rounded-xl relative text-white shadow-2xl transition-transform transform hover:scale-110"
                     >
-                      <!-- Gradient Background -->
                       <div
                         class="relative object-cover w-full h-full rounded-xl bg-gradient-to-br from-gray-400 to-gray-500"
                       ></div>

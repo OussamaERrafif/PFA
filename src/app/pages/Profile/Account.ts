@@ -24,6 +24,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                     type="text"
                     formControlName="firstName"
                     id="first_name"
+                    placeholder="John"
                     class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                   />
                 </div>
@@ -36,6 +37,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                     type="text"
                     formControlName="lastName"
                     id="last_name"
+                    placeholder="Doe"
                     class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                   />
                 </div>
@@ -49,6 +51,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                   type="text"
                   formControlName="username"
                   id="username"
+                  placeholder="johndoe"
                   class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                 />
               </div>
@@ -74,6 +77,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                   type="text"
                   formControlName="address"
                   id="address"
+                  placeholder="123 Main St."
                   class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                 />
               </div>
@@ -85,6 +89,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                     type="text"
                     formControlName="city"
                     id="city"
+                    placeholder="City Name"
                     class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                   />
                 </div>
@@ -98,6 +103,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                       type="text"
                       formControlName="country"
                       id="country"
+                      placeholder="Country"
                       class="h-10 px-4 border-2 border-gray-300 rounded w-full pr-10"
                       placeholder="Country"
                     />
@@ -114,6 +120,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                       type="text"
                       formControlName="state"
                       id="state"
+                      placeholder="State"
                       class="h-10 px-4 border-2 border-gray-300 rounded w-full pr-10"
                       placeholder="State"
                     />
@@ -129,6 +136,7 @@ import { ReactiveFormsModule } from '@angular/forms';
                     type="text"
                     formControlName="zipcode"
                     id="zipcode"
+                    placeholder="12345"
                     class="h-10 px-4 border-2 border-gray-300 rounded w-full"
                   />
                 </div>
